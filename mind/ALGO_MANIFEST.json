@@ -1,0 +1,1671 @@
+{
+  "manifest": {
+    "0044": {
+      "title": "44. 开发商购买土地",
+      "path": "kamacoder\\0044.开发商购买土地.md",
+      "content_type": "explanation_heavy",
+      "tags": []
+    },
+    "0047": {
+      "title": "47.全排列 II",
+      "path": "大部分算法题及其总结\\0047.全排列II.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "Backtracking"
+      ]
+    },
+    "0053": {
+      "title": "53. 最大子序和",
+      "path": "大部分算法题及其总结\\0053.最大子序和（动态规划）.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "DP",
+        "Greedy"
+      ]
+    },
+    "0054": {
+      "title": "54.螺旋矩阵",
+      "path": "大部分算法题及其总结\\0054.螺旋矩阵.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "Tree"
+      ]
+    },
+    "0055": {
+      "title": "55. 跳跃游戏",
+      "path": "大部分算法题及其总结\\0055.跳跃游戏.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "Greedy"
+      ]
+    },
+    "0058": {
+      "title": "58. 区间和",
+      "path": "kamacoder\\0058.区间和.md",
+      "content_type": "explanation_heavy",
+      "tags": []
+    },
+    "0094": {
+      "title": "Bellman_ford 算法精讲",
+      "path": "kamacoder\\0094.城市间货物运输I.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "Graph",
+        "Greedy"
+      ]
+    },
+    "0095": {
+      "title": "bellman_ford之判断负权回路",
+      "path": "kamacoder\\0095.城市间货物运输II.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "Graph"
+      ]
+    },
+    "0096": {
+      "title": "96.不同的二叉搜索树",
+      "path": "大部分算法题及其总结\\0096.不同的二叉搜索树.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "DP",
+        "Tree",
+        "Graph"
+      ]
+    },
+    "0097": {
+      "title": "Floyd 算法精讲",
+      "path": "kamacoder\\0097.小明逛公园.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "Graph",
+        "Stack/Queue",
+        "Heap"
+      ]
+    },
+    "0098": {
+      "title": "98.验证二叉搜索树",
+      "path": "大部分算法题及其总结\\0098.验证二叉搜索树.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "Tree"
+      ]
+    },
+    "0099": {
+      "title": "99. 岛屿数量",
+      "path": "kamacoder\\0099.岛屿的数量深搜.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "Tree",
+        "Graph"
+      ]
+    },
+    "0100": {
+      "title": "100. 相同的树",
+      "path": "大部分算法题及其总结\\0100.相同的树.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "Tree"
+      ]
+    },
+    "0101": {
+      "title": "101. 对称二叉树",
+      "path": "大部分算法题及其总结\\0101.对称二叉树.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "Tree",
+        "Graph"
+      ]
+    },
+    "0102": {
+      "title": "二叉树层序遍历登场！",
+      "path": "大部分算法题及其总结\\0102.二叉树的层序遍历.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "Tree",
+        "Graph"
+      ]
+    },
+    "0103": {
+      "title": "103. 水流问题",
+      "path": "kamacoder\\0103.水流问题.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "Graph"
+      ]
+    },
+    "0104": {
+      "title": "104.二叉树的最大深度",
+      "path": "大部分算法题及其总结\\0104.二叉树的最大深度.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "Tree"
+      ]
+    },
+    "0105": {
+      "title": "105.有向图的完全联通",
+      "path": "kamacoder\\0105.有向图的完全可达性.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "Tree",
+        "Graph"
+      ]
+    },
+    "0106": {
+      "title": "106.从中序与后序遍历序列构造二叉树",
+      "path": "大部分算法题及其总结\\0106.从中序与后序遍历序列构造二叉树.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "Tree",
+        "Graph"
+      ]
+    },
+    "0107": {
+      "title": "107. 寻找存在的路线",
+      "path": "kamacoder\\0107.寻找存在的路径.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "Graph"
+      ]
+    },
+    "0108": {
+      "title": "108.将有序数组转换为二叉搜索树",
+      "path": "大部分算法题及其总结\\0108.将有序数组转换为二叉搜索树.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "Sort",
+        "Tree"
+      ]
+    },
+    "0109": {
+      "title": "109. 多余的边II",
+      "path": "kamacoder\\0109.冗余连接II.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "Tree",
+        "Graph"
+      ]
+    },
+    "0110": {
+      "title": "110.平衡二叉树",
+      "path": "大部分算法题及其总结\\0110.平衡二叉树.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "Tree"
+      ]
+    },
+    "0117": {
+      "title": "拓扑排序精讲",
+      "path": "kamacoder\\0117.软件构建.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "Sort",
+        "Graph"
+      ]
+    },
+    "0126": {
+      "title": "A * 算法精讲 （A star算法）",
+      "path": "kamacoder\\0126.骑士的攻击astar.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "Graph",
+        "Stack/Queue",
+        "String"
+      ]
+    },
+    "0001": {
+      "title": "1. 两数之和",
+      "path": "大部分算法题及其总结\\0001.两数之和.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "Hash Table"
+      ]
+    },
+    "0005": {
+      "title": "5.最长回文子串",
+      "path": "大部分算法题及其总结\\0005.最长回文子串.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "DP",
+        "Tree",
+        "String"
+      ]
+    },
+    "0015": {
+      "title": "第15题. 三数之和",
+      "path": "大部分算法题及其总结\\0015.三数之和.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "Hash Table"
+      ]
+    },
+    "0017": {
+      "title": "17.电话号码的字母组合",
+      "path": "大部分算法题及其总结\\0017.电话号码的字母组合.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "Tree",
+        "Backtracking",
+        "String"
+      ]
+    },
+    "0018": {
+      "title": "第18题. 四数之和",
+      "path": "大部分算法题及其总结\\0018.四数之和.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "Two Pointers"
+      ]
+    },
+    "0019": {
+      "title": "19.删除链表的倒数第N个节点",
+      "path": "大部分算法题及其总结\\0019.删除链表的倒数第N个节点.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "Tree",
+        "Two Pointers",
+        "Linked List"
+      ]
+    },
+    "0020": {
+      "title": "20. 有效的括号",
+      "path": "大部分算法题及其总结\\0020.有效的括号.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "Stack/Queue",
+        "String"
+      ]
+    },
+    "0024": {
+      "title": "24. 两两交换链表中的节点",
+      "path": "大部分算法题及其总结\\0024.两两交换链表中的节点.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "Graph",
+        "Linked List"
+      ]
+    },
+    "0027": {
+      "title": "27. 移除元素",
+      "path": "大部分算法题及其总结\\0027.移除元素.md",
+      "content_type": "explanation_heavy",
+      "tags": []
+    },
+    "0028": {
+      "title": "28. 实现 strStr()",
+      "path": "大部分算法题及其总结\\0028.实现strStr.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "Stack/Queue",
+        "String"
+      ]
+    },
+    "0031": {
+      "title": "31.下一个排列",
+      "path": "大部分算法题及其总结\\0031.下一个排列.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "Graph",
+        "Backtracking"
+      ]
+    },
+    "0034": {
+      "title": "34. 在排序数组中查找元素的第一个和最后一个位置",
+      "path": "大部分算法题及其总结\\0034.在排序数组中查找元素的第一个和最后一个位置.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "Sort",
+        "Binary Search"
+      ]
+    },
+    "0035": {
+      "title": "35.搜索插入位置",
+      "path": "大部分算法题及其总结\\0035.搜索插入位置.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "Sort",
+        "Binary Search"
+      ]
+    },
+    "0037": {
+      "title": "37. 解数独",
+      "path": "大部分算法题及其总结\\0037.解数独.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "Backtracking"
+      ]
+    },
+    "0039": {
+      "title": "39. 组合总和",
+      "path": "大部分算法题及其总结\\0039.组合总和.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "Backtracking"
+      ]
+    },
+    "0040": {
+      "title": "40.组合总和II",
+      "path": "大部分算法题及其总结\\0040.组合总和II.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "Tree",
+        "Backtracking"
+      ]
+    },
+    "0042": {
+      "title": "42. 接雨水",
+      "path": "大部分算法题及其总结\\0042.接雨水.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "Graph",
+        "Two Pointers",
+        "Stack/Queue"
+      ]
+    },
+    "0045": {
+      "title": "45.跳跃游戏 II",
+      "path": "大部分算法题及其总结\\0045.跳跃游戏II.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "Greedy"
+      ]
+    },
+    "0046": {
+      "title": "46.全排列",
+      "path": "大部分算法题及其总结\\0046.全排列.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "Tree",
+        "Backtracking"
+      ]
+    },
+    "0051": {
+      "title": "51. N皇后",
+      "path": "大部分算法题及其总结\\0051.N皇后.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "Tree",
+        "Graph",
+        "Backtracking"
+      ]
+    },
+    "0052": {
+      "title": "52. N皇后II",
+      "path": "大部分算法题及其总结\\0052.N皇后II.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "Graph",
+        "Backtracking",
+        "String"
+      ]
+    },
+    "0056": {
+      "title": "56. 合并区间",
+      "path": "大部分算法题及其总结\\0056.合并区间.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "Greedy"
+      ]
+    },
+    "0059": {
+      "title": "59.螺旋矩阵II",
+      "path": "大部分算法题及其总结\\0059.螺旋矩阵II.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "Binary Search"
+      ]
+    },
+    "0062": {
+      "title": "62.不同路径",
+      "path": "大部分算法题及其总结\\0062.不同路径.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "DP",
+        "Graph"
+      ]
+    },
+    "0063": {
+      "title": "63. 不同路径 II",
+      "path": "大部分算法题及其总结\\0063.不同路径II.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "Tree",
+        "Graph"
+      ]
+    },
+    "0070": {
+      "title": "70. 爬楼梯（进阶版）",
+      "path": "大部分算法题及其总结\\0070.爬楼梯完全背包版本.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "DP"
+      ]
+    },
+    "0072": {
+      "title": "72. 编辑距离",
+      "path": "大部分算法题及其总结\\0072.编辑距离.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "DP"
+      ]
+    },
+    "0077": {
+      "title": "77.组合优化",
+      "path": "大部分算法题及其总结\\0077.组合优化.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "Backtracking"
+      ]
+    },
+    "0078": {
+      "title": "78.子集",
+      "path": "大部分算法题及其总结\\0078.子集.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "Tree",
+        "Backtracking",
+        "Hash Table"
+      ]
+    },
+    "0084": {
+      "title": "84.柱状图中最大的矩形",
+      "path": "大部分算法题及其总结\\0084.柱状图中最大的矩形.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "Graph",
+        "Stack/Queue"
+      ]
+    },
+    "0090": {
+      "title": "90.子集II",
+      "path": "大部分算法题及其总结\\0090.子集II.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "Sort",
+        "Tree",
+        "Graph",
+        "Backtracking",
+        "Hash Table"
+      ]
+    },
+    "0093": {
+      "title": "93.复原IP地址",
+      "path": "大部分算法题及其总结\\0093.复原IP地址.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "Backtracking",
+        "String"
+      ]
+    },
+    "0111": {
+      "title": "111.二叉树的最小深度",
+      "path": "大部分算法题及其总结\\0111.二叉树的最小深度.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "Tree"
+      ]
+    },
+    "0112": {
+      "title": "112. 路径总和",
+      "path": "大部分算法题及其总结\\0112.路径总和.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "Tree",
+        "Backtracking"
+      ]
+    },
+    "0115": {
+      "title": "115.不同的子序列",
+      "path": "大部分算法题及其总结\\0115.不同的子序列.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "DP",
+        "Two Pointers",
+        "String"
+      ]
+    },
+    "0116": {
+      "title": "116. 填充每个节点的下一个右侧节点指针",
+      "path": "大部分算法题及其总结\\0116.填充每个节点的下一个右侧节点指针.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "Tree",
+        "Graph",
+        "Stack/Queue"
+      ]
+    },
+    "0121": {
+      "title": "121. 买卖股票的最佳时机",
+      "path": "大部分算法题及其总结\\0121.买卖股票的最佳时机.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "DP",
+        "Greedy"
+      ]
+    },
+    "0122": {
+      "title": "122.买卖股票的最佳时机II",
+      "path": "大部分算法题及其总结\\0122.买卖股票的最佳时机II（动态规划）.md",
+      "content_type": "explanation_heavy",
+      "tags": []
+    },
+    "0123": {
+      "title": "123.买卖股票的最佳时机III",
+      "path": "大部分算法题及其总结\\0123.买卖股票的最佳时机III.md",
+      "content_type": "explanation_heavy",
+      "tags": []
+    },
+    "0127": {
+      "title": "127. 单词接龙",
+      "path": "大部分算法题及其总结\\0127.单词接龙.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "Graph"
+      ]
+    },
+    "0129": {
+      "title": "129. 求根节点到叶节点数字之和",
+      "path": "大部分算法题及其总结\\0129.求根到叶子节点数字之和.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "Tree",
+        "Backtracking"
+      ]
+    },
+    "0130": {
+      "title": "130. 被围绕的区域",
+      "path": "大部分算法题及其总结\\0130.被围绕的区域.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "Tree",
+        "Graph"
+      ]
+    },
+    "0131": {
+      "title": "131.分割回文串",
+      "path": "大部分算法题及其总结\\0131.分割回文串.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "Tree",
+        "Graph",
+        "Backtracking",
+        "String"
+      ]
+    },
+    "0132": {
+      "title": "132. 分割回文串 II",
+      "path": "大部分算法题及其总结\\0132.分割回文串II.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "DP",
+        "Backtracking",
+        "String"
+      ]
+    },
+    "0134": {
+      "title": "134. 加油站",
+      "path": "大部分算法题及其总结\\0134.加油站.md",
+      "content_type": "explanation_heavy",
+      "tags": []
+    },
+    "0135": {
+      "title": "135. 分发糖果",
+      "path": "大部分算法题及其总结\\0135.分发糖果.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "Tree",
+        "Greedy"
+      ]
+    },
+    "0139": {
+      "title": "139.单词拆分",
+      "path": "大部分算法题及其总结\\0139.单词拆分.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "DP",
+        "Backtracking",
+        "String"
+      ]
+    },
+    "0141": {
+      "title": "141. 环形链表",
+      "path": "大部分算法题及其总结\\0141.环形链表.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "Graph",
+        "Two Pointers",
+        "Linked List"
+      ]
+    },
+    "0142": {
+      "title": "142.环形链表II",
+      "path": "大部分算法题及其总结\\0142.环形链表II.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "Two Pointers",
+        "Linked List",
+        "Math"
+      ]
+    },
+    "0143": {
+      "title": "143.重排链表",
+      "path": "大部分算法题及其总结\\0143.重排链表.md",
+      "content_type": "code_heavy",
+      "tags": [
+        "Tree",
+        "Two Pointers",
+        "Linked List",
+        "Stack/Queue"
+      ]
+    },
+    "0150": {
+      "title": "150. 逆波兰表达式求值",
+      "path": "大部分算法题及其总结\\0150.逆波兰表达式求值.md",
+      "content_type": "explanation_heavy",
+      "tags": []
+    },
+    "0151": {
+      "title": "151.翻转字符串里的单词",
+      "path": "大部分算法题及其总结\\0151.翻转字符串里的单词.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "String"
+      ]
+    },
+    "0160": {
+      "title": "同：[链表：链表相交](https://programmercarl.com/面试题02.07.链表相交.html)",
+      "path": "大部分算法题及其总结\\0160.相交链表.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "Linked List"
+      ]
+    },
+    "0188": {
+      "title": "188.买卖股票的最佳时机IV",
+      "path": "大部分算法题及其总结\\0188.买卖股票的最佳时机IV.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "DP"
+      ]
+    },
+    "0189": {
+      "title": "189. 旋转数组",
+      "path": "大部分算法题及其总结\\0189.旋转数组.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "String"
+      ]
+    },
+    "0198": {
+      "title": "198.打家劫舍",
+      "path": "大部分算法题及其总结\\0198.打家劫舍.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "DP"
+      ]
+    },
+    "0200": {
+      "title": "200. 岛屿数量",
+      "path": "大部分算法题及其总结\\0200.岛屿数量.深搜版.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "Tree",
+        "Graph"
+      ]
+    },
+    "0202": {
+      "title": "第202题. 快乐数",
+      "path": "大部分算法题及其总结\\0202.快乐数.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "Hash Table",
+        "Math"
+      ]
+    },
+    "0203": {
+      "title": "203.移除链表元素",
+      "path": "大部分算法题及其总结\\0203.移除链表元素.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "Graph",
+        "Linked List"
+      ]
+    },
+    "0205": {
+      "title": "205. 同构字符串",
+      "path": "大部分算法题及其总结\\0205.同构字符串.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "Hash Table",
+        "String"
+      ]
+    },
+    "0206": {
+      "title": "206.反转链表",
+      "path": "大部分算法题及其总结\\0206.翻转链表.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "Graph",
+        "Linked List"
+      ]
+    },
+    "0207": {
+      "title": "拓扑排序指的是一种 解决问题的大体思路， 而具体算法，可能是 广搜 可能是深搜。",
+      "path": "大部分算法题及其总结\\0207.课程表.md",
+      "content_type": "code_heavy",
+      "tags": [
+        "Sort",
+        "Tree",
+        "Graph",
+        "Hash Table"
+      ]
+    },
+    "0209": {
+      "title": "209.长度最小的子数组",
+      "path": "大部分算法题及其总结\\0209.长度最小的子数组.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "DP",
+        "Sliding Window"
+      ]
+    },
+    "0210": {
+      "title": "```CPP",
+      "path": "大部分算法题及其总结\\0210.课程表II.md",
+      "content_type": "code_heavy",
+      "tags": [
+        "Hash Table",
+        "Stack/Queue"
+      ]
+    },
+    "0213": {
+      "title": "213.打家劫舍II",
+      "path": "大部分算法题及其总结\\0213.打家劫舍II.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "DP"
+      ]
+    },
+    "0216": {
+      "title": "216.组合总和III",
+      "path": "大部分算法题及其总结\\0216.组合总和III.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "Tree",
+        "Backtracking"
+      ]
+    },
+    "0222": {
+      "title": "222.完全二叉树的节点个数",
+      "path": "大部分算法题及其总结\\0222.完全二叉树的节点个数.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "Tree"
+      ]
+    },
+    "0225": {
+      "title": "225. 用队列实现栈",
+      "path": "大部分算法题及其总结\\0225.用队列实现栈.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "Stack/Queue"
+      ]
+    },
+    "0226": {
+      "title": "226.翻转二叉树",
+      "path": "大部分算法题及其总结\\0226.翻转二叉树.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "Tree",
+        "Graph"
+      ]
+    },
+    "0232": {
+      "title": "232.用栈实现队列",
+      "path": "大部分算法题及其总结\\0232.用栈实现队列.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "Stack/Queue"
+      ]
+    },
+    "0234": {
+      "title": "234.回文链表",
+      "path": "大部分算法题及其总结\\0234.回文链表.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "Linked List"
+      ]
+    },
+    "0235": {
+      "title": "235. 二叉搜索树的最近公共祖先",
+      "path": "大部分算法题及其总结\\0235.二叉搜索树的最近公共祖先.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "Tree"
+      ]
+    },
+    "0236": {
+      "title": "236. 二叉树的最近公共祖先",
+      "path": "大部分算法题及其总结\\0236.二叉树的最近公共祖先.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "Tree"
+      ]
+    },
+    "0239": {
+      "title": "239. 滑动窗口最大值",
+      "path": "大部分算法题及其总结\\0239.滑动窗口最大值.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "Tree",
+        "Sliding Window",
+        "Stack/Queue",
+        "Heap"
+      ]
+    },
+    "0242": {
+      "title": "242.有效的字母异位词",
+      "path": "大部分算法题及其总结\\0242.有效的字母异位词.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "Hash Table",
+        "String"
+      ]
+    },
+    "0257": {
+      "title": "257. 二叉树的所有路径",
+      "path": "大部分算法题及其总结\\0257.二叉树的所有路径.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "Tree",
+        "Graph",
+        "Backtracking"
+      ]
+    },
+    "0279": {
+      "title": "279.完全平方数",
+      "path": "大部分算法题及其总结\\0279.完全平方数.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "DP"
+      ]
+    },
+    "0283": {
+      "title": "283. 移动零：动态规划：一样的套路，再求一次完全平方数",
+      "path": "大部分算法题及其总结\\0283.移动零.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "DP",
+        "Two Pointers"
+      ]
+    },
+    "0300": {
+      "title": "300.最长递增子序列",
+      "path": "大部分算法题及其总结\\0300.最长上升子序列.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "DP"
+      ]
+    },
+    "0309": {
+      "title": "309.最佳买卖股票时机含冷冻期",
+      "path": "大部分算法题及其总结\\0309.最佳买卖股票时机含冷冻期.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "DP"
+      ]
+    },
+    "0322": {
+      "title": "322. 零钱兑换",
+      "path": "大部分算法题及其总结\\0322.零钱兑换.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "DP",
+        "Backtracking"
+      ]
+    },
+    "0332": {
+      "title": "332.重新安排行程",
+      "path": "大部分算法题及其总结\\0332.重新安排行程.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "DP",
+        "Sort",
+        "Backtracking",
+        "String"
+      ]
+    },
+    "0337": {
+      "title": "337.打家劫舍 III",
+      "path": "大部分算法题及其总结\\0337.打家劫舍III.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "DP",
+        "Tree"
+      ]
+    },
+    "0343": {
+      "title": "343. 整数拆分",
+      "path": "大部分算法题及其总结\\0343.整数拆分.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "DP",
+        "Tree"
+      ]
+    },
+    "0344": {
+      "title": "344.反转字符串",
+      "path": "大部分算法题及其总结\\0344.反转字符串.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "String"
+      ]
+    },
+    "0347": {
+      "title": "347.前 K 个高频元素",
+      "path": "大部分算法题及其总结\\0347.前K个高频元素.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "Sort",
+        "Hash Table",
+        "Stack/Queue",
+        "Heap"
+      ]
+    },
+    "0349": {
+      "title": "349. 两个数组的交集",
+      "path": "大部分算法题及其总结\\0349.两个数组的交集.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "Hash Table"
+      ]
+    },
+    "0376": {
+      "title": "376. 摆动序列",
+      "path": "大部分算法题及其总结\\0376.摆动序列.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "DP",
+        "Greedy"
+      ]
+    },
+    "0377": {
+      "title": "377. 组合总和 Ⅳ",
+      "path": "大部分算法题及其总结\\0377.组合总和Ⅳ.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "DP",
+        "Backtracking"
+      ]
+    },
+    "0383": {
+      "title": "383. 赎金信",
+      "path": "大部分算法题及其总结\\0383.赎金信.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "Hash Table",
+        "String"
+      ]
+    },
+    "0392": {
+      "title": "392.判断子序列",
+      "path": "大部分算法题及其总结\\0392.判断子序列.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "DP",
+        "Two Pointers",
+        "String"
+      ]
+    },
+    "0404": {
+      "title": "404.左叶子之和",
+      "path": "大部分算法题及其总结\\0404.左叶子之和.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "Tree",
+        "Graph"
+      ]
+    },
+    "0406": {
+      "title": "406.根据身高重建队列",
+      "path": "大部分算法题及其总结\\0406.根据身高重建队列.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "Stack/Queue"
+      ]
+    },
+    "0416": {
+      "title": "416. 分割等和子集",
+      "path": "大部分算法题及其总结\\0416.分割等和子集.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "DP",
+        "Backtracking",
+        "Hash Table"
+      ]
+    },
+    "0417": {
+      "title": "417. 太平洋大西洋水流问题",
+      "path": "大部分算法题及其总结\\0417.太平洋大西洋水流问题.md",
+      "content_type": "explanation_heavy",
+      "tags": []
+    },
+    "0435": {
+      "title": "435. 无重叠区间",
+      "path": "大部分算法题及其总结\\0435.无重叠区间.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "Sort",
+        "Greedy"
+      ]
+    },
+    "0450": {
+      "title": "450.删除二叉搜索树中的节点",
+      "path": "大部分算法题及其总结\\0450.删除二叉搜索树中的节点.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "Tree"
+      ]
+    },
+    "0452": {
+      "title": "452. 用最少数量的箭引爆气球",
+      "path": "大部分算法题及其总结\\0452.用最少数量的箭引爆气球.md",
+      "content_type": "explanation_heavy",
+      "tags": []
+    },
+    "0454": {
+      "title": "第454题.四数相加II",
+      "path": "大部分算法题及其总结\\0454.四数相加II.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "Hash Table"
+      ]
+    },
+    "0455": {
+      "title": "455.分发饼干",
+      "path": "大部分算法题及其总结\\0455.分发饼干.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "Greedy"
+      ]
+    },
+    "0459": {
+      "title": "459.重复的子字符串",
+      "path": "大部分算法题及其总结\\0459.重复的子字符串.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "Tree",
+        "String"
+      ]
+    },
+    "0463": {
+      "title": "463. 岛屿的周长",
+      "path": "大部分算法题及其总结\\0463.岛屿的周长.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "Tree",
+        "Graph"
+      ]
+    },
+    "0474": {
+      "title": "474.一和零",
+      "path": "大部分算法题及其总结\\0474.一和零.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "DP",
+        "Backtracking",
+        "String"
+      ]
+    },
+    "0491": {
+      "title": "491.递增子序列",
+      "path": "大部分算法题及其总结\\0491.递增子序列.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "DP",
+        "Sort",
+        "Tree",
+        "Backtracking"
+      ]
+    },
+    "0494": {
+      "title": "494.目标和",
+      "path": "大部分算法题及其总结\\0494.目标和.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "DP"
+      ]
+    },
+    "0496": {
+      "title": "496.下一个更大元素 I",
+      "path": "大部分算法题及其总结\\0496.下一个更大元素I.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "Backtracking"
+      ]
+    },
+    "0501": {
+      "title": "501.二叉搜索树中的众数",
+      "path": "大部分算法题及其总结\\0501.二叉搜索树中的众数.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "Tree",
+        "Two Pointers",
+        "Stack/Queue"
+      ]
+    },
+    "0503": {
+      "title": "503.下一个更大元素II",
+      "path": "大部分算法题及其总结\\0503.下一个更大元素II.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "Tree",
+        "Stack/Queue"
+      ]
+    },
+    "0509": {
+      "title": "509. 斐波那契数",
+      "path": "大部分算法题及其总结\\0509.斐波那契数.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "DP"
+      ]
+    },
+    "0513": {
+      "title": "513.找树左下角的值",
+      "path": "大部分算法题及其总结\\0513.找树左下角的值.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "Tree",
+        "Backtracking"
+      ]
+    },
+    "0516": {
+      "title": "516.最长回文子序列",
+      "path": "大部分算法题及其总结\\0516.最长回文子序列.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "DP",
+        "String"
+      ]
+    },
+    "0518": {
+      "title": "518.零钱兑换II",
+      "path": "大部分算法题及其总结\\0518.零钱兑换II.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "DP",
+        "Backtracking"
+      ]
+    },
+    "0530": {
+      "title": "530.二叉搜索树的最小绝对差",
+      "path": "大部分算法题及其总结\\0530.二叉搜索树的最小绝对差.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "Tree",
+        "Two Pointers"
+      ]
+    },
+    "0538": {
+      "title": "538.把二叉搜索树转换为累加树",
+      "path": "大部分算法题及其总结\\0538.把二叉搜索树转换为累加树.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "Tree"
+      ]
+    },
+    "0541": {
+      "title": "541. 反转字符串II",
+      "path": "大部分算法题及其总结\\0541.反转字符串II.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "Tree",
+        "Heap",
+        "String"
+      ]
+    },
+    "0583": {
+      "title": "583. 两个字符串的删除操作",
+      "path": "大部分算法题及其总结\\0583.两个字符串的删除操作.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "DP",
+        "String"
+      ]
+    },
+    "0617": {
+      "title": "617.合并二叉树",
+      "path": "大部分算法题及其总结\\0617.合并二叉树.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "Tree"
+      ]
+    },
+    "0647": {
+      "title": "647. 回文子串",
+      "path": "大部分算法题及其总结\\0647.回文子串.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "DP",
+        "Tree",
+        "String"
+      ]
+    },
+    "0649": {
+      "title": "649. Dota2 参议院",
+      "path": "大部分算法题及其总结\\0649.Dota2参议院.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "String"
+      ]
+    },
+    "0654": {
+      "title": "654.最大二叉树",
+      "path": "大部分算法题及其总结\\0654.最大二叉树.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "Tree"
+      ]
+    },
+    "0657": {
+      "title": "657. 机器人能否返回原点",
+      "path": "大部分算法题及其总结\\0657.机器人能否返回原点.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "Graph",
+        "Hash Table",
+        "String"
+      ]
+    },
+    "0669": {
+      "title": "669. 修剪二叉搜索树",
+      "path": "大部分算法题及其总结\\0669.修剪二叉搜索树.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "Tree"
+      ]
+    },
+    "0673": {
+      "title": "673.最长递增子序列的个数",
+      "path": "大部分算法题及其总结\\0673.最长递增子序列的个数.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "DP",
+        "Sort",
+        "String"
+      ]
+    },
+    "0674": {
+      "title": "674. 最长连续递增序列",
+      "path": "大部分算法题及其总结\\0674.最长连续递增序列.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "DP",
+        "Sort"
+      ]
+    },
+    "0684": {
+      "title": "684.冗余连接",
+      "path": "大部分算法题及其总结\\0684.冗余连接.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "Tree",
+        "Graph"
+      ]
+    },
+    "0685": {
+      "title": "685.冗余连接II",
+      "path": "大部分算法题及其总结\\0685.冗余连接II.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "Tree",
+        "Graph"
+      ]
+    },
+    "0695": {
+      "title": "695. 岛屿的最大面积",
+      "path": "大部分算法题及其总结\\0695.岛屿的最大面积.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "Graph",
+        "Backtracking"
+      ]
+    },
+    "0700": {
+      "title": "700.二叉搜索树中的搜索",
+      "path": "大部分算法题及其总结\\0700.二叉搜索树中的搜索.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "Tree"
+      ]
+    },
+    "0701": {
+      "title": "701.二叉搜索树中的插入操作",
+      "path": "大部分算法题及其总结\\0701.二叉搜索树中的插入操作.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "Tree"
+      ]
+    },
+    "0704": {
+      "title": "704. 二分查找",
+      "path": "大部分算法题及其总结\\0704.二分查找.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "Binary Search"
+      ]
+    },
+    "0707": {
+      "title": "707.设计链表",
+      "path": "大部分算法题及其总结\\0707.设计链表.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "Linked List"
+      ]
+    },
+    "0714": {
+      "title": "714.买卖股票的最佳时机含手续费",
+      "path": "大部分算法题及其总结\\0714.买卖股票的最佳时机含手续费（动态规划）.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "DP"
+      ]
+    },
+    "0718": {
+      "title": "718. 最长重复子数组",
+      "path": "大部分算法题及其总结\\0718.最长重复子数组.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "DP",
+        "String"
+      ]
+    },
+    "0724": {
+      "title": "724.寻找数组的中心下标",
+      "path": "大部分算法题及其总结\\0724.寻找数组的中心索引.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "Tree"
+      ]
+    },
+    "0738": {
+      "title": "738.单调递增的数字",
+      "path": "大部分算法题及其总结\\0738.单调递增的数字.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "Greedy"
+      ]
+    },
+    "0739": {
+      "title": "739. 每日温度",
+      "path": "大部分算法题及其总结\\0739.每日温度.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "Stack/Queue"
+      ]
+    },
+    "0743": {
+      "title": "743.网络延迟时间",
+      "path": "大部分算法题及其总结\\0743.网络延迟时间.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "Graph"
+      ]
+    },
+    "0746": {
+      "title": "746. 使用最小花费爬楼梯",
+      "path": "大部分算法题及其总结\\0746.使用最小花费爬楼梯.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "DP"
+      ]
+    },
+    "0763": {
+      "title": "763.划分字母区间",
+      "path": "大部分算法题及其总结\\0763.划分字母区间.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "Tree",
+        "Backtracking",
+        "Greedy",
+        "String"
+      ]
+    },
+    "0787": {
+      "title": "787. K 站中转内最便宜的航班",
+      "path": "大部分算法题及其总结\\0787.K站中转内最便宜的航班.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "Tree",
+        "Heap"
+      ]
+    },
+    "0797": {
+      "title": "797.所有可能的路径",
+      "path": "大部分算法题及其总结\\0797.所有可能的路径.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "Tree",
+        "Graph",
+        "Backtracking"
+      ]
+    },
+    "0827": {
+      "title": "827.最大人工岛",
+      "path": "大部分算法题及其总结\\0827.最大人工岛.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "Tree",
+        "Graph"
+      ]
+    },
+    "0841": {
+      "title": "841.钥匙和房间",
+      "path": "大部分算法题及其总结\\0841.钥匙和房间.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "Graph"
+      ]
+    },
+    "0844": {
+      "title": "844.比较含退格的字符串",
+      "path": "大部分算法题及其总结\\0844.比较含退格的字符串.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "Two Pointers",
+        "Stack/Queue",
+        "String"
+      ]
+    },
+    "0860": {
+      "title": "860.柠檬水找零",
+      "path": "大部分算法题及其总结\\0860.柠檬水找零.md",
+      "content_type": "explanation_heavy",
+      "tags": []
+    },
+    "0922": {
+      "title": "922. 按奇偶排序数组II",
+      "path": "大部分算法题及其总结\\0922.按奇偶排序数组II.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "Sort"
+      ]
+    },
+    "0925": {
+      "title": "925.长按键入",
+      "path": "大部分算法题及其总结\\0925.长按键入.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "Tree",
+        "Hash Table"
+      ]
+    },
+    "0941": {
+      "title": "941.有效的山脉数组",
+      "path": "大部分算法题及其总结\\0941.有效的山脉数组.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "Graph"
+      ]
+    },
+    "0968": {
+      "title": "968.监控二叉树",
+      "path": "大部分算法题及其总结\\0968.监控二叉树.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "Tree",
+        "Graph",
+        "Greedy"
+      ]
+    },
+    "0977": {
+      "title": "977.有序数组的平方",
+      "path": "大部分算法题及其总结\\0977.有序数组的平方.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "Sort",
+        "Two Pointers"
+      ]
+    },
+    "1002": {
+      "title": "1002. 查找常用字符",
+      "path": "大部分算法题及其总结\\1002.查找常用字符.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "Hash Table",
+        "String"
+      ]
+    },
+    "1005": {
+      "title": "1005.K次取反后最大化的数组和",
+      "path": "大部分算法题及其总结\\1005.K次取反后最大化的数组和.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "Greedy"
+      ]
+    },
+    "1020": {
+      "title": "1020. 飞地的数量",
+      "path": "大部分算法题及其总结\\1020.飞地的数量.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "Tree",
+        "Graph"
+      ]
+    },
+    "1035": {
+      "title": "1035.不相交的线",
+      "path": "大部分算法题及其总结\\1035.不相交的线.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "DP",
+        "String"
+      ]
+    },
+    "1047": {
+      "title": "1047. 删除字符串中的所有相邻重复项",
+      "path": "大部分算法题及其总结\\1047.删除字符串中的所有相邻重复项.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "Stack/Queue",
+        "String"
+      ]
+    },
+    "1049": {
+      "title": "1049.最后一块石头的重量II",
+      "path": "大部分算法题及其总结\\1049.最后一块石头的重量II.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "DP",
+        "Backtracking",
+        "Greedy",
+        "Heap"
+      ]
+    },
+    "1143": {
+      "title": "1143.最长公共子序列",
+      "path": "大部分算法题及其总结\\1143.最长公共子序列.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "DP",
+        "String"
+      ]
+    },
+    "1207": {
+      "title": "1207.独一无二的出现次数",
+      "path": "大部分算法题及其总结\\1207.独一无二的出现次数.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "Hash Table"
+      ]
+    },
+    "1221": {
+      "title": "1221. 分割平衡字符串",
+      "path": "大部分算法题及其总结\\1221.分割平衡字符串.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "Tree",
+        "Greedy",
+        "String"
+      ]
+    },
+    "1254": {
+      "title": "1254. 统计封闭岛屿的数目",
+      "path": "大部分算法题及其总结\\1254.统计封闭岛屿的数目.md",
+      "content_type": "explanation_heavy",
+      "tags": []
+    },
+    "1334": {
+      "title": "floyd",
+      "path": "大部分算法题及其总结\\1334.阈值距离内邻居最少的城市.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "Graph"
+      ]
+    },
+    "1356": {
+      "title": "1356. 根据数字二进制下 1 的数目排序",
+      "path": "大部分算法题及其总结\\1356.根据数字二进制下1的数目排序.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "Sort"
+      ]
+    },
+    "1365": {
+      "title": "1365.有多少小于当前数字的数字",
+      "path": "大部分算法题及其总结\\1365.有多少小于当前数字的数字.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "Sort"
+      ]
+    },
+    "1382": {
+      "title": "1382.将二叉搜索树变平衡",
+      "path": "大部分算法题及其总结\\1382.将二叉搜索树变平衡.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "Tree"
+      ]
+    },
+    "1791": {
+      "title": "1791.找出星型图的中心节点",
+      "path": "大部分算法题及其总结\\1791.找出星型图的中心节点.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "Graph",
+        "Hash Table"
+      ]
+    },
+    "1971": {
+      "title": "1971. 寻找图中是否存在路径",
+      "path": "大部分算法题及其总结\\1971.寻找图中是否存在路径.md",
+      "content_type": "explanation_heavy",
+      "tags": [
+        "Graph"
+      ]
+    }
+  },
+  "unmapped_count": 135,
+  "total_files": 349,
+  "mapped_files": 214
+}

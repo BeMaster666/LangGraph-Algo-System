@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+*.egg
+*.whl
+
+# 环境变量
+.env
+.env.local
+
+# 不上传的目录（本地保留）
+
+# IDE
+.vscode/
+.claude/
+
+# 仅本地保留，不上传 GitHub
+/tests/
+/tools/
+/picture/
+
+# IDE 临时文件
+.idea/
+*.swp
+*.swo
+*~
+
+# ChromaDB 持久化数据（克隆后需自行 ingest）
+mind/knowledge_db/
+
+# mirror 审计输出
+mind/storage/
+
+# OS 生成
+.DS_Store
+Thumbs.db
+
+# 日志
+*.log

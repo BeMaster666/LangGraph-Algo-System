@@ -1,0 +1,44 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "frame-agent"
+version = "0.1.0"
+description = "A topology-based Agent system for algorithm tutoring, built on LangGraph"
+readme = "README.md"
+requires-python = ">=3.11"
+license = { text = "MIT" }
+keywords = ["langgraph", "agent", "algorithm", "tutoring", "ai"]
+
+authors = [
+    { name = "BeMaster666" },
+]
+
+classifiers = [
+    "Development Status :: 3 - Alpha",
+    "Intended Audience :: Developers",
+    "Intended Audience :: Education",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Topic :: Education",
+    "Topic :: Scientific/Engineering :: Artificial Intelligence",
+]
+
+dependencies = [
+    "langgraph>=1.2.0",
+    "langchain-openai>=1.0.0",
+    "langchain-core>=0.3.0",
+    "python-dotenv>=1.0.0",
+    "prompt-toolkit>=3.0.0",
+    "chromadb>=0.5.0",
+]
+
+[project.optional-dependencies]
+redis = ["langgraph-checkpoint-redis"]
+all = ["langgraph-checkpoint-redis"]
+
+[project.urls]
+Homepage = "https://github.com/BeMaster666/LangGraph-Algo-System"
+Source = "https://github.com/BeMaster666/LangGraph-Algo-System"

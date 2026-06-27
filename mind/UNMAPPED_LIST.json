@@ -1,0 +1,1371 @@
+[
+  {
+    "title": "关于本书",
+    "path": "hello\\about_the_book.md",
+    "content_type": "explanation_heavy",
+    "tags": [
+      "DP",
+      "Sort",
+      "Tree",
+      "Graph",
+      "Backtracking",
+      "Greedy",
+      "Hash Table",
+      "Linked List",
+      "Stack/Queue",
+      "Heap"
+    ]
+  },
+  {
+    "title": "算法无处不在",
+    "path": "hello\\algorithms_are_everywhere.md",
+    "content_type": "explanation_heavy",
+    "tags": [
+      "Graph",
+      "Binary Search",
+      "Hash Table",
+      "Math"
+    ]
+  },
+  {
+    "title": "数组",
+    "path": "hello\\array.md",
+    "content_type": "code_heavy",
+    "tags": [
+      "Graph",
+      "Hash Table",
+      "Stack/Queue",
+      "Heap"
+    ]
+  },
+  {
+    "title": "二叉树数组表示",
+    "path": "hello\\array_representation_of_tree.md",
+    "content_type": "explanation_heavy",
+    "tags": [
+      "Tree",
+      "Graph",
+      "Hash Table",
+      "Linked List"
+    ]
+  },
+  {
+    "title": "AVL 树 *",
+    "path": "hello\\avl_tree.md",
+    "content_type": "explanation_heavy",
+    "tags": [
+      "Tree",
+      "Graph",
+      "Binary Search",
+      "Hash Table",
+      "Linked List"
+    ]
+  },
+  {
+    "title": "回溯算法",
+    "path": "hello\\backtracking_algorithm.md",
+    "content_type": "explanation_heavy",
+    "tags": [
+      "Tree",
+      "Graph",
+      "Backtracking",
+      "Hash Table"
+    ]
+  },
+  {
+    "title": "基本数据类型",
+    "path": "hello\\basic_data_types.md",
+    "content_type": "explanation_heavy",
+    "tags": [
+      "Graph"
+    ]
+  },
+  {
+    "title": "二分查找",
+    "path": "hello\\binary_search.md",
+    "content_type": "explanation_heavy",
+    "tags": [
+      "Graph",
+      "Binary Search",
+      "Hash Table"
+    ]
+  },
+  {
+    "title": "二分查找边界",
+    "path": "hello\\binary_search_edge.md",
+    "content_type": "explanation_heavy",
+    "tags": [
+      "Graph",
+      "Binary Search",
+      "Hash Table"
+    ]
+  },
+  {
+    "title": "二分查找插入点",
+    "path": "hello\\binary_search_insertion.md",
+    "content_type": "explanation_heavy",
+    "tags": [
+      "Graph",
+      "Binary Search",
+      "Hash Table"
+    ]
+  },
+  {
+    "title": "分治搜索策略",
+    "path": "hello\\binary_search_recur.md",
+    "content_type": "explanation_heavy",
+    "tags": [
+      "DP",
+      "Tree",
+      "Graph",
+      "Binary Search",
+      "Heap"
+    ]
+  },
+  {
+    "title": "二叉搜索树",
+    "path": "hello\\binary_search_tree.md",
+    "content_type": "explanation_heavy",
+    "tags": [
+      "Tree",
+      "Graph",
+      "Binary Search",
+      "Hash Table"
+    ]
+  },
+  {
+    "title": "二叉树",
+    "path": "hello\\binary_tree.md",
+    "content_type": "code_heavy",
+    "tags": [
+      "Tree",
+      "Linked List"
+    ]
+  },
+  {
+    "title": "二叉树遍历",
+    "path": "hello\\binary_tree_traversal.md",
+    "content_type": "explanation_heavy",
+    "tags": [
+      "Tree",
+      "Graph",
+      "Backtracking",
+      "Hash Table",
+      "Linked List",
+      "Stack/Queue"
+    ]
+  },
+  {
+    "title": "冒泡排序",
+    "path": "hello\\bubble_sort.md",
+    "content_type": "explanation_heavy",
+    "tags": [
+      "Sort",
+      "Tree",
+      "Graph",
+      "Hash Table"
+    ]
+  },
+  {
+    "title": "桶排序",
+    "path": "hello\\bucket_sort.md",
+    "content_type": "explanation_heavy",
+    "tags": [
+      "Sort",
+      "Tree",
+      "Graph",
+      "Hash Table",
+      "Math"
+    ]
+  },
+  {
+    "title": "构建二叉树问题",
+    "path": "hello\\build_binary_tree_problem.md",
+    "content_type": "explanation_heavy",
+    "tags": [
+      "Tree",
+      "Graph",
+      "Hash Table"
+    ]
+  },
+  {
+    "title": "建堆操作",
+    "path": "hello\\build_heap.md",
+    "content_type": "explanation_heavy",
+    "tags": [
+      "Tree",
+      "Heap",
+      "Math"
+    ]
+  },
+  {
+    "title": "字符编码 *",
+    "path": "hello\\character_encoding.md",
+    "content_type": "explanation_heavy",
+    "tags": [
+      "Graph",
+      "Hash Table"
+    ]
+  },
+  {
+    "title": "数据结构分类",
+    "path": "hello\\classification_of_data_structure.md",
+    "content_type": "explanation_heavy",
+    "tags": [
+      "Tree",
+      "Graph",
+      "Hash Table",
+      "Linked List",
+      "Stack/Queue",
+      "Heap"
+    ]
+  },
+  {
+    "title": "一起参与创作",
+    "path": "hello\\contribution.md",
+    "content_type": "explanation_heavy",
+    "tags": [
+      "Graph",
+      "Hash Table"
+    ]
+  },
+  {
+    "title": "计数排序",
+    "path": "hello\\counting_sort.md",
+    "content_type": "explanation_heavy",
+    "tags": [
+      "Sort",
+      "Tree",
+      "Graph",
+      "Hash Table",
+      "Math"
+    ]
+  },
+  {
+    "title": "双向队列",
+    "path": "hello\\deque.md",
+    "content_type": "explanation_heavy",
+    "tags": [
+      "Graph",
+      "Hash Table",
+      "Stack/Queue"
+    ]
+  },
+  {
+    "title": "分治算法",
+    "path": "hello\\divide_and_conquer.md",
+    "content_type": "explanation_heavy",
+    "tags": [
+      "DP",
+      "Sort",
+      "Graph",
+      "Hash Table",
+      "Heap"
+    ]
+  },
+  {
+    "title": "动态规划问题特性",
+    "path": "hello\\dp_problem_features.md",
+    "content_type": "explanation_heavy",
+    "tags": [
+      "DP",
+      "Graph",
+      "Backtracking",
+      "Greedy",
+      "Hash Table"
+    ]
+  },
+  {
+    "title": "动态规划解题思路",
+    "path": "hello\\dp_solution_pipeline.md",
+    "content_type": "explanation_heavy",
+    "tags": [
+      "DP",
+      "Tree",
+      "Graph",
+      "Backtracking",
+      "Greedy",
+      "Hash Table"
+    ]
+  },
+  {
+    "title": "编辑距离问题",
+    "path": "hello\\edit_distance_problem.md",
+    "content_type": "explanation_heavy",
+    "tags": [
+      "DP",
+      "Tree",
+      "Graph",
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
+    "title": "分数背包问题",
+    "path": "hello\\fractional_knapsack_problem.md",
+    "content_type": "explanation_heavy",
+    "tags": [
+      "DP",
+      "Sort",
+      "Tree",
+      "Graph",
+      "Greedy",
+      "Hash Table"
+    ]
+  },
+  {
+    "title": "图",
+    "path": "hello\\graph.md",
+    "content_type": "explanation_heavy",
+    "tags": [
+      "Tree",
+      "Graph",
+      "Hash Table",
+      "Linked List"
+    ]
+  },
+  {
+    "title": "图的基础操作",
+    "path": "hello\\graph_operations.md",
+    "content_type": "explanation_heavy",
+    "tags": [
+      "Graph",
+      "Hash Table"
+    ]
+  },
+  {
+    "title": "图的遍历",
+    "path": "hello\\graph_traversal.md",
+    "content_type": "explanation_heavy",
+    "tags": [
+      "Tree",
+      "Graph",
+      "Hash Table",
+      "Stack/Queue"
+    ]
+  },
+  {
+    "title": "贪心算法",
+    "path": "hello\\greedy_algorithm.md",
+    "content_type": "explanation_heavy",
+    "tags": [
+      "DP",
+      "Graph",
+      "Backtracking",
+      "Greedy",
+      "Hash Table"
+    ]
+  },
+  {
+    "title": "汉诺塔问题",
+    "path": "hello\\hanota_problem.md",
+    "content_type": "explanation_heavy",
+    "tags": [
+      "Sort",
+      "Tree",
+      "Graph",
+      "Hash Table"
+    ]
+  },
+  {
+    "title": "哈希算法",
+    "path": "hello\\hash_algorithm.md",
+    "content_type": "explanation_heavy",
+    "tags": [
+      "Graph",
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
+    "title": "哈希冲突",
+    "path": "hello\\hash_collision.md",
+    "content_type": "explanation_heavy",
+    "tags": [
+      "Tree",
+      "Graph",
+      "Hash Table",
+      "Linked List"
+    ]
+  },
+  {
+    "title": "哈希表",
+    "path": "hello\\hash_map.md",
+    "content_type": "explanation_heavy",
+    "tags": [
+      "Tree",
+      "Graph",
+      "Hash Table",
+      "Linked List"
+    ]
+  },
+  {
+    "title": "堆",
+    "path": "hello\\heap.md",
+    "content_type": "explanation_heavy",
+    "tags": [
+      "Sort",
+      "Tree",
+      "Graph",
+      "Hash Table",
+      "Stack/Queue",
+      "Heap",
+      "Math"
+    ]
+  },
+  {
+    "title": "堆排序",
+    "path": "hello\\heap_sort.md",
+    "content_type": "explanation_heavy",
+    "tags": [
+      "Sort",
+      "Graph",
+      "Hash Table",
+      "Heap",
+      "Math"
+    ]
+  },
+  {
+    "title": "插入排序",
+    "path": "hello\\insertion_sort.md",
+    "content_type": "explanation_heavy",
+    "tags": [
+      "Sort",
+      "Graph",
+      "Hash Table"
+    ]
+  },
+  {
+    "title": "编程环境安装",
+    "path": "hello\\installation.md",
+    "content_type": "explanation_heavy",
+    "tags": [
+      "Graph",
+      "Hash Table"
+    ]
+  },
+  {
+    "title": "初探动态规划",
+    "path": "hello\\intro_to_dynamic_programming.md",
+    "content_type": "explanation_heavy",
+    "tags": [
+      "DP",
+      "Graph",
+      "Backtracking",
+      "Hash Table"
+    ]
+  },
+  {
+    "title": "迭代与递归",
+    "path": "hello\\iteration_and_recursion.md",
+    "content_type": "explanation_heavy",
+    "tags": [
+      "Tree",
+      "Graph",
+      "Hash Table"
+    ]
+  },
+  {
+    "title": "0-1 背包问题",
+    "path": "hello\\knapsack_problem.md",
+    "content_type": "explanation_heavy",
+    "tags": [
+      "DP",
+      "Tree",
+      "Graph",
+      "Greedy",
+      "Hash Table"
+    ]
+  },
+  {
+    "title": "链表",
+    "path": "hello\\linked_list.md",
+    "content_type": "explanation_heavy",
+    "tags": [
+      "Graph",
+      "Hash Table",
+      "Linked List"
+    ]
+  },
+  {
+    "title": "列表",
+    "path": "hello\\list.md",
+    "content_type": "explanation_heavy",
+    "tags": [
+      "Tree",
+      "Linked List"
+    ]
+  },
+  {
+    "title": "最大容量问题",
+    "path": "hello\\max_capacity_problem.md",
+    "content_type": "explanation_heavy",
+    "tags": [
+      "Graph",
+      "Backtracking",
+      "Greedy",
+      "Hash Table"
+    ]
+  },
+  {
+    "title": "最大切分乘积问题",
+    "path": "hello\\max_product_cutting_problem.md",
+    "content_type": "explanation_heavy",
+    "tags": [
+      "Graph",
+      "Greedy",
+      "Hash Table"
+    ]
+  },
+  {
+    "title": "归并排序",
+    "path": "hello\\merge_sort.md",
+    "content_type": "explanation_heavy",
+    "tags": [
+      "DP",
+      "Sort",
+      "Graph",
+      "Backtracking",
+      "Hash Table"
+    ]
+  },
+  {
+    "title": "n 皇后问题",
+    "path": "hello\\n_queens_problem.md",
+    "content_type": "explanation_heavy",
+    "tags": [
+      "Graph",
+      "Backtracking",
+      "Hash Table"
+    ]
+  },
+  {
+    "title": "数字编码 *",
+    "path": "hello\\number_encoding.md",
+    "content_type": "explanation_heavy",
+    "tags": [
+      "Graph",
+      "Hash Table"
+    ]
+  },
+  {
+    "title": "算法效率评估",
+    "path": "hello\\performance_evaluation.md",
+    "content_type": "explanation_heavy",
+    "tags": [
+      "Greedy"
+    ]
+  },
+  {
+    "title": "全排列问题",
+    "path": "hello\\permutations_problem.md",
+    "content_type": "explanation_heavy",
+    "tags": [
+      "Tree",
+      "Graph",
+      "Backtracking",
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
+    "title": "队列",
+    "path": "hello\\queue.md",
+    "content_type": "explanation_heavy",
+    "tags": [
+      "Graph",
+      "Hash Table",
+      "Stack/Queue"
+    ]
+  },
+  {
+    "title": "快速排序",
+    "path": "hello\\quick_sort.md",
+    "content_type": "explanation_heavy",
+    "tags": [
+      "DP",
+      "Sort",
+      "Graph",
+      "Hash Table"
+    ]
+  },
+  {
+    "title": "基数排序",
+    "path": "hello\\radix_sort.md",
+    "content_type": "explanation_heavy",
+    "tags": [
+      "Sort",
+      "Graph",
+      "Hash Table"
+    ]
+  },
+  {
+    "title": "内存与缓存 *",
+    "path": "hello\\ram_and_cache.md",
+    "content_type": "explanation_heavy",
+    "tags": [
+      "Linked List"
+    ]
+  },
+  {
+    "title": "哈希优化策略",
+    "path": "hello\\replace_linear_by_hashing.md",
+    "content_type": "explanation_heavy",
+    "tags": [
+      "Tree",
+      "Graph",
+      "Backtracking",
+      "Hash Table"
+    ]
+  },
+  {
+    "title": "重识搜索算法",
+    "path": "hello\\searching_algorithm_revisited.md",
+    "content_type": "explanation_heavy",
+    "tags": [
+      "Sort",
+      "Tree",
+      "Graph",
+      "Backtracking",
+      "Binary Search",
+      "Hash Table",
+      "Linked List",
+      "Math"
+    ]
+  },
+  {
+    "title": "选择排序",
+    "path": "hello\\selection_sort.md",
+    "content_type": "explanation_heavy",
+    "tags": [
+      "Sort",
+      "Graph",
+      "Hash Table"
+    ]
+  },
+  {
+    "title": "排序算法",
+    "path": "hello\\sorting_algorithm.md",
+    "content_type": "explanation_heavy",
+    "tags": [
+      "Sort",
+      "Graph",
+      "Greedy",
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
+    "title": "空间复杂度",
+    "path": "hello\\space_complexity.md",
+    "content_type": "explanation_heavy",
+    "tags": [
+      "Graph",
+      "Hash Table",
+      "Stack/Queue"
+    ]
+  },
+  {
+    "title": "栈",
+    "path": "hello\\stack.md",
+    "content_type": "explanation_heavy",
+    "tags": [
+      "Graph",
+      "Hash Table",
+      "Linked List",
+      "Stack/Queue",
+      "Heap"
+    ]
+  },
+  {
+    "title": "子集和问题",
+    "path": "hello\\subset_sum_problem.md",
+    "content_type": "explanation_heavy",
+    "tags": [
+      "Sort",
+      "Graph",
+      "Backtracking",
+      "Hash Table"
+    ]
+  },
+  {
+    "title": "如何使用本书",
+    "path": "hello\\suggestions.md",
+    "content_type": "explanation_heavy",
+    "tags": []
+  },
+  {
+    "title": "小结",
+    "path": "hello\\summary.md",
+    "content_type": "explanation_heavy",
+    "tags": [
+      "Tree",
+      "Graph",
+      "Backtracking",
+      "Linked List",
+      "Stack/Queue"
+    ]
+  },
+  {
+    "title": "术语表",
+    "path": "hello\\terminology.md",
+    "content_type": "explanation_heavy",
+    "tags": [
+      "Tree"
+    ]
+  },
+  {
+    "title": "时间复杂度",
+    "path": "hello\\time_complexity.md",
+    "content_type": "code_heavy",
+    "tags": []
+  },
+  {
+    "title": "Top-k 问题",
+    "path": "hello\\top_k.md",
+    "content_type": "explanation_heavy",
+    "tags": [
+      "Sort",
+      "Tree",
+      "Graph",
+      "Hash Table",
+      "Heap"
+    ]
+  },
+  {
+    "title": "完全背包问题",
+    "path": "hello\\unbounded_knapsack_problem.md",
+    "content_type": "explanation_heavy",
+    "tags": [
+      "DP",
+      "Tree",
+      "Graph",
+      "Hash Table"
+    ]
+  },
+  {
+    "title": "算法是什么",
+    "path": "hello\\what_is_dsa.md",
+    "content_type": "explanation_heavy",
+    "tags": [
+      "Graph",
+      "Hash Table",
+      "Linked List"
+    ]
+  },
+  {
+    "title": "图论为什么统一使用ACM模式",
+    "path": "kamacoder\\图论为什么用ACM模式.md",
+    "content_type": "explanation_heavy",
+    "tags": [
+      "Tree",
+      "Graph"
+    ]
+  },
+  {
+    "title": "并查集理论基础",
+    "path": "kamacoder\\图论并查集理论基础.md",
+    "content_type": "explanation_heavy",
+    "tags": [
+      "Tree",
+      "Graph",
+      "Hash Table"
+    ]
+  },
+  {
+    "title": "广度优先搜索理论基础",
+    "path": "kamacoder\\图论广搜理论基础.md",
+    "content_type": "explanation_heavy",
+    "tags": [
+      "Tree",
+      "Graph",
+      "Backtracking"
+    ]
+  },
+  {
+    "title": "图论总结篇",
+    "path": "kamacoder\\图论总结篇.md",
+    "content_type": "explanation_heavy",
+    "tags": [
+      "Sort",
+      "Tree",
+      "Graph",
+      "Backtracking",
+      "Stack/Queue"
+    ]
+  },
+  {
+    "title": "深度优先搜索理论基础",
+    "path": "kamacoder\\图论深搜理论基础.md",
+    "content_type": "explanation_heavy",
+    "tags": [
+      "Tree",
+      "Graph",
+      "Backtracking"
+    ]
+  },
+  {
+    "title": "图论理论基础",
+    "path": "kamacoder\\图论理论基础.md",
+    "content_type": "explanation_heavy",
+    "tags": [
+      "Graph"
+    ]
+  },
+  {
+    "title": "最短路算法总结篇",
+    "path": "kamacoder\\最短路问题总结篇.md",
+    "content_type": "explanation_heavy",
+    "tags": [
+      "Graph",
+      "Stack/Queue",
+      "Heap"
+    ]
+  },
+  {
+    "title": "本周小结！（二叉树）",
+    "path": "周总结\\20200927二叉树周末总结.md",
+    "content_type": "explanation_heavy",
+    "tags": [
+      "Tree",
+      "Hash Table"
+    ]
+  },
+  {
+    "title": "本周小结！（二叉树系列二）",
+    "path": "周总结\\20201003二叉树周末总结.md",
+    "content_type": "explanation_heavy",
+    "tags": [
+      "Tree",
+      "Stack/Queue"
+    ]
+  },
+  {
+    "title": "本周小结！（二叉树系列三）",
+    "path": "周总结\\20201010二叉树周末总结.md",
+    "content_type": "explanation_heavy",
+    "tags": [
+      "Tree",
+      "Backtracking"
+    ]
+  },
+  {
+    "title": "本周小结！（二叉树系列四）",
+    "path": "周总结\\20201017二叉树周末总结.md",
+    "content_type": "explanation_heavy",
+    "tags": [
+      "Tree",
+      "Stack/Queue"
+    ]
+  },
+  {
+    "title": "本周小结！（回溯算法系列一）",
+    "path": "周总结\\20201030回溯周末总结.md",
+    "content_type": "explanation_heavy",
+    "tags": [
+      "Tree",
+      "Graph",
+      "Backtracking",
+      "String"
+    ]
+  },
+  {
+    "title": "本周小结！（回溯算法系列二）",
+    "path": "周总结\\20201107回溯周末总结.md",
+    "content_type": "explanation_heavy",
+    "tags": [
+      "Sort",
+      "Tree",
+      "Graph",
+      "Backtracking"
+    ]
+  },
+  {
+    "title": "本周小结！（回溯算法系列三）",
+    "path": "周总结\\20201112回溯周末总结.md",
+    "content_type": "explanation_heavy",
+    "tags": [
+      "DP",
+      "Tree",
+      "Graph",
+      "Backtracking"
+    ]
+  },
+  {
+    "title": "本周小结！（贪心算法系列一）",
+    "path": "周总结\\20201126贪心周末总结.md",
+    "content_type": "explanation_heavy",
+    "tags": [
+      "Tree",
+      "Greedy",
+      "Math"
+    ]
+  },
+  {
+    "title": "本周小结！（贪心算法系列二）",
+    "path": "周总结\\20201203贪心周末总结.md",
+    "content_type": "explanation_heavy",
+    "tags": [
+      "DP",
+      "Graph",
+      "Greedy"
+    ]
+  },
+  {
+    "title": "周一",
+    "path": "周总结\\20201210复杂度分析周末总结.md",
+    "content_type": "explanation_heavy",
+    "tags": [
+      "Tree"
+    ]
+  },
+  {
+    "title": "本周小结！（贪心算法系列三）",
+    "path": "周总结\\20201217贪心周末总结.md",
+    "content_type": "explanation_heavy",
+    "tags": [
+      "Tree",
+      "Graph",
+      "Greedy"
+    ]
+  },
+  {
+    "title": "本周小结！（贪心算法系列四）",
+    "path": "周总结\\20201224贪心周末总结.md",
+    "content_type": "explanation_heavy",
+    "tags": [
+      "Sort",
+      "Tree",
+      "Graph",
+      "Greedy"
+    ]
+  },
+  {
+    "title": "本周小结！（动态规划系列一）",
+    "path": "周总结\\20210107动规周末总结.md",
+    "content_type": "explanation_heavy",
+    "tags": [
+      "DP",
+      "Tree",
+      "Greedy"
+    ]
+  },
+  {
+    "title": "本周小结！（动态规划系列二）",
+    "path": "周总结\\20210114动规周末总结.md",
+    "content_type": "explanation_heavy",
+    "tags": [
+      "DP",
+      "Tree",
+      "Graph"
+    ]
+  },
+  {
+    "title": "本周小结！（动态规划系列三）",
+    "path": "周总结\\20210121动规周末总结.md",
+    "content_type": "explanation_heavy",
+    "tags": [
+      "DP",
+      "Tree",
+      "Graph",
+      "Backtracking"
+    ]
+  },
+  {
+    "title": "本周小结！（动态规划系列四）",
+    "path": "周总结\\20210128动规周末总结.md",
+    "content_type": "explanation_heavy",
+    "tags": [
+      "DP",
+      "Tree",
+      "Backtracking",
+      "String"
+    ]
+  },
+  {
+    "title": "本周小结！（动态规划系列五）",
+    "path": "周总结\\20210204动规周末总结.md",
+    "content_type": "explanation_heavy",
+    "tags": [
+      "DP",
+      "Tree",
+      "Backtracking"
+    ]
+  },
+  {
+    "title": "本周小结！（动态规划系列六）",
+    "path": "周总结\\20210225动规周末总结.md",
+    "content_type": "explanation_heavy",
+    "tags": [
+      "DP",
+      "Tree"
+    ]
+  },
+  {
+    "title": "本周小结！（动态规划系列七）",
+    "path": "周总结\\20210304动规周末总结.md",
+    "content_type": "explanation_heavy",
+    "tags": [
+      "DP"
+    ]
+  },
+  {
+    "title": "本周小结！（二叉树）",
+    "path": "周总结\\二叉树阶段总结系列一.md",
+    "content_type": "explanation_heavy",
+    "tags": [
+      "Tree",
+      "Hash Table",
+      "Stack/Queue"
+    ]
+  },
+  {
+    "title": "程序提交之后为什么会超时？O(n)的算法会超时，n究竟是多大？",
+    "path": "大部分算法题及其总结\\O(n)的算法居然超时了，此时的n究竟是多大？.md",
+    "content_type": "explanation_heavy",
+    "tags": []
+  },
+  {
+    "title": "动态规划之编辑距离总结篇",
+    "path": "大部分算法题及其总结\\为了绝杀编辑距离，卡尔做了三步铺垫.md",
+    "content_type": "explanation_heavy",
+    "tags": [
+      "DP",
+      "Two Pointers",
+      "Greedy",
+      "String"
+    ]
+  },
+  {
+    "title": "二叉树：以为使用了递归，其实还隐藏着回溯",
+    "path": "大部分算法题及其总结\\二叉树中递归带着回溯.md",
+    "content_type": "explanation_heavy",
+    "tags": [
+      "Tree",
+      "Backtracking"
+    ]
+  },
+  {
+    "title": "二叉树：总结篇！（需要掌握的二叉树技能都在这里了）",
+    "path": "大部分算法题及其总结\\二叉树总结篇.md",
+    "content_type": "explanation_heavy",
+    "tags": [
+      "Tree",
+      "Stack/Queue"
+    ]
+  },
+  {
+    "title": "二叉树理论基础篇",
+    "path": "大部分算法题及其总结\\二叉树理论基础.md",
+    "content_type": "explanation_heavy",
+    "tags": [
+      "Tree",
+      "Graph"
+    ]
+  },
+  {
+    "title": "二叉树的统一迭代法",
+    "path": "大部分算法题及其总结\\二叉树的统一迭代法.md",
+    "content_type": "explanation_heavy",
+    "tags": [
+      "Tree",
+      "Stack/Queue"
+    ]
+  },
+  {
+    "title": "二叉树的迭代遍历",
+    "path": "大部分算法题及其总结\\二叉树的迭代遍历.md",
+    "content_type": "explanation_heavy",
+    "tags": [
+      "Tree",
+      "Stack/Queue",
+      "String"
+    ]
+  },
+  {
+    "title": "二叉树的递归遍历",
+    "path": "大部分算法题及其总结\\二叉树的递归遍历.md",
+    "content_type": "explanation_heavy",
+    "tags": [
+      "Tree",
+      "Stack/Queue"
+    ]
+  },
+  {
+    "title": "替换数字",
+    "path": "大部分算法题及其总结\\剑指Offer05.替换空格.md",
+    "content_type": "explanation_heavy",
+    "tags": [
+      "Graph",
+      "Two Pointers",
+      "String"
+    ]
+  },
+  {
+    "title": "右旋字符串",
+    "path": "大部分算法题及其总结\\剑指Offer58-II.左旋转字符串.md",
+    "content_type": "explanation_heavy",
+    "tags": [
+      "Graph",
+      "String"
+    ]
+  },
+  {
+    "title": "Leetcode股票问题总结篇!",
+    "path": "大部分算法题及其总结\\动态规划-股票问题总结篇.md",
+    "content_type": "explanation_heavy",
+    "tags": [
+      "DP",
+      "Greedy"
+    ]
+  },
+  {
+    "title": "动态规划最强总结篇！",
+    "path": "大部分算法题及其总结\\动态规划总结篇.md",
+    "content_type": "explanation_heavy",
+    "tags": [
+      "DP",
+      "Tree"
+    ]
+  },
+  {
+    "title": "动态规划理论基础",
+    "path": "大部分算法题及其总结\\动态规划理论基础.md",
+    "content_type": "explanation_heavy",
+    "tags": [
+      "DP",
+      "Greedy"
+    ]
+  },
+  {
+    "title": "双指针总结篇",
+    "path": "大部分算法题及其总结\\双指针总结.md",
+    "content_type": "explanation_heavy",
+    "tags": [
+      "Two Pointers",
+      "Linked List",
+      "String"
+    ]
+  },
+  {
+    "title": "哈希表总结篇",
+    "path": "大部分算法题及其总结\\哈希表总结.md",
+    "content_type": "explanation_heavy",
+    "tags": [
+      "Hash Table"
+    ]
+  },
+  {
+    "title": "哈希表理论基础",
+    "path": "大部分算法题及其总结\\哈希表理论基础.md",
+    "content_type": "explanation_heavy",
+    "tags": [
+      "Graph",
+      "Hash Table"
+    ]
+  },
+  {
+    "title": "回溯总结篇",
+    "path": "大部分算法题及其总结\\回溯总结.md",
+    "content_type": "explanation_heavy",
+    "tags": [
+      "Tree",
+      "Graph",
+      "Backtracking",
+      "String"
+    ]
+  },
+  {
+    "title": "回溯算法去重问题的另一种写法",
+    "path": "大部分算法题及其总结\\回溯算法去重问题的另一种写法.md",
+    "content_type": "explanation_heavy",
+    "tags": [
+      "DP",
+      "Sort",
+      "Tree",
+      "Graph",
+      "Backtracking",
+      "Hash Table"
+    ]
+  },
+  {
+    "title": "回溯算法理论基础",
+    "path": "大部分算法题及其总结\\回溯算法理论基础.md",
+    "content_type": "explanation_heavy",
+    "tags": [
+      "Tree",
+      "Backtracking"
+    ]
+  },
+  {
+    "title": "字符串：总结篇",
+    "path": "大部分算法题及其总结\\字符串总结.md",
+    "content_type": "explanation_heavy",
+    "tags": [
+      "Tree",
+      "String"
+    ]
+  },
+  {
+    "title": "数组总结篇",
+    "path": "大部分算法题及其总结\\数组总结篇.md",
+    "content_type": "explanation_heavy",
+    "tags": [
+      "Graph"
+    ]
+  },
+  {
+    "title": "数组理论基础",
+    "path": "大部分算法题及其总结\\数组理论基础.md",
+    "content_type": "explanation_heavy",
+    "tags": [
+      "Graph"
+    ]
+  },
+  {
+    "title": "栈与队列总结篇",
+    "path": "大部分算法题及其总结\\栈与队列总结.md",
+    "content_type": "explanation_heavy",
+    "tags": [
+      "Tree",
+      "Stack/Queue"
+    ]
+  },
+  {
+    "title": "栈与队列理论基础",
+    "path": "大部分算法题及其总结\\栈与队列理论基础.md",
+    "content_type": "explanation_heavy",
+    "tags": [
+      "Tree",
+      "Graph",
+      "Stack/Queue"
+    ]
+  },
+  {
+    "title": "贪心算法：根据身高重建队列（续集）",
+    "path": "大部分算法题及其总结\\根据身高重建队列（vector原理讲解）.md",
+    "content_type": "code_heavy",
+    "tags": [
+      "Sort",
+      "Greedy",
+      "Stack/Queue"
+    ]
+  },
+  {
+    "title": "算法模板",
+    "path": "大部分算法题及其总结\\算法模板.md",
+    "content_type": "code_heavy",
+    "tags": [
+      "Binary Search"
+    ]
+  },
+  {
+    "title": "听说背包问题很难？ 这篇总结篇来拯救你了",
+    "path": "大部分算法题及其总结\\背包总结篇.md",
+    "content_type": "explanation_heavy",
+    "tags": [
+      "DP",
+      "Tree",
+      "Graph",
+      "Backtracking"
+    ]
+  },
+  {
+    "title": "动态规划：01背包理论基础",
+    "path": "大部分算法题及其总结\\背包理论基础01背包-1.md",
+    "content_type": "explanation_heavy",
+    "tags": [
+      "DP",
+      "Graph",
+      "Backtracking"
+    ]
+  },
+  {
+    "title": "动态规划：01背包理论基础（滚动数组）",
+    "path": "大部分算法题及其总结\\背包理论基础01背包-2.md",
+    "content_type": "explanation_heavy",
+    "tags": [
+      "DP"
+    ]
+  },
+  {
+    "title": "完全背包-一维数组",
+    "path": "大部分算法题及其总结\\背包问题完全背包一维.md",
+    "content_type": "explanation_heavy",
+    "tags": [
+      "DP",
+      "Tree"
+    ]
+  },
+  {
+    "title": "动态规划：关于多重背包，你该了解这些！",
+    "path": "大部分算法题及其总结\\背包问题理论基础多重背包.md",
+    "content_type": "explanation_heavy",
+    "tags": [
+      "DP"
+    ]
+  },
+  {
+    "title": "完全背包理论基础-二维DP数组",
+    "path": "大部分算法题及其总结\\背包问题理论基础完全背包.md",
+    "content_type": "explanation_heavy",
+    "tags": [
+      "DP"
+    ]
+  },
+  {
+    "title": "贪心算法总结篇",
+    "path": "大部分算法题及其总结\\贪心算法总结篇.md",
+    "content_type": "explanation_heavy",
+    "tags": [
+      "Backtracking",
+      "Greedy"
+    ]
+  },
+  {
+    "title": "关于贪心算法，你该了解这些！",
+    "path": "大部分算法题及其总结\\贪心算法理论基础.md",
+    "content_type": "explanation_heavy",
+    "tags": [
+      "DP",
+      "Greedy",
+      "Heap"
+    ]
+  },
+  {
+    "title": "递归算法的时间与空间复杂度分析！",
+    "path": "大部分算法题及其总结\\递归算法的时间与空间复杂度分析.md",
+    "content_type": "explanation_heavy",
+    "tags": [
+      "Tree",
+      "Binary Search"
+    ]
+  },
+  {
+    "title": "链表总结篇",
+    "path": "大部分算法题及其总结\\链表总结篇.md",
+    "content_type": "explanation_heavy",
+    "tags": [
+      "Linked List"
+    ]
+  },
+  {
+    "title": "关于链表，你该了解这些！",
+    "path": "大部分算法题及其总结\\链表理论基础.md",
+    "content_type": "explanation_heavy",
+    "tags": [
+      "Graph",
+      "Linked List"
+    ]
+  },
+  {
+    "title": "面试题 02.07. 链表相交",
+    "path": "大部分算法题及其总结\\面试题02.07.链表相交.md",
+    "content_type": "explanation_heavy",
+    "tags": [
+      "Graph",
+      "Linked List",
+      "Math"
+    ]
+  }
+]
